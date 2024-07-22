@@ -17,7 +17,7 @@ The GWO algorithm includes four main phases: alpha, beta, delta, and omega, whic
 2. Navigate to the project directory: `cd Grey-Wolf-Optimization-Algorithm`
 
 ## Usage Examples
-  - Run the PSO algorithm by executing the main.py file: `python Grey-Wolf-Optimization-Algorithm`
+  - Run the PSO algorithm by executing the main.py file: `python GW_algorithm.ipynb`
 
 ## Example output:
 ```
