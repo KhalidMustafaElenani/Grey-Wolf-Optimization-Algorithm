@@ -18,10 +18,10 @@
 <p align="center">
   <img src="GW_Structure.png" alt="GW Structure"width="200"/>
 </p>
-- **Alpha Wolves**: Represent the best solution found so far.
-- **Beta Wolves**: Represent the second-best solution.
-- **Delta Wolves**: Represent the third-best solution.
-- **Omega Wolves**: Represent the remaining wolves.
+  - **Alpha Wolves**: Represent the best solution found so far.
+  - **Beta Wolves**: Represent the second-best solution.
+  - **Delta Wolves**: Represent the third-best solution.
+  - **Omega Wolves**: Represent the remaining wolves.
 
 ### 3. Position Update
 - Update the positions of wolves based on the current best solutions and social hierarchy.
