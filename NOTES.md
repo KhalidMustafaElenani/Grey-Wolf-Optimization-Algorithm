@@ -9,8 +9,6 @@
   - A population-based optimization algorithm inspired by the social hierarchy and hunting behavior of grey wolves.
   - It simulates the process of grey wolves hunting prey and updating their positions based on the positions of alpha, beta, delta, and omega wolves.
     
-
-
 ### 1. Initialization
 - Initialize the positions of grey wolves randomly within the search space.
 - Define the fitness function to evaluate the quality of solutions.
