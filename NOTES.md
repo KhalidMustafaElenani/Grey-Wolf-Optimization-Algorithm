@@ -5,23 +5,25 @@
   <img src="GW_Algorithm_Flowchart.png" alt="GW Algorithm Flowchart"width="400"/>
 </p>
 
-## GWO Overview
-- **Grey Wolf Optimization (GWO)**:
+## Description
   - A population-based optimization algorithm inspired by the social hierarchy and hunting behavior of grey wolves.
   - It simulates the process of grey wolves hunting prey and updating their positions based on the positions of alpha, beta, delta, and omega wolves.
+    
+
 
 ### 1. Initialization
 - Initialize the positions of grey wolves randomly within the search space.
 - Define the fitness function to evaluate the quality of solutions.
-
+  
 ### 2. Social Hierarchy
-<p align="center">
-  <img src="GW_Structure.png" alt="GW Structure"width="200"/>
-</p>
   - **Alpha Wolves**: Represent the best solution found so far.
   - **Beta Wolves**: Represent the second-best solution.
   - **Delta Wolves**: Represent the third-best solution.
   - **Omega Wolves**: Represent the remaining wolves.
+
+<p align="center">
+  <img src="GW_Structure.png" alt="GW Structure"width="200"/>
+</p>
 
 ### 3. Position Update
 - Update the positions of wolves based on the current best solutions and social hierarchy.
