@@ -2,7 +2,7 @@
 
 ## Flowchart
 <p align="center">
-  <img src="GW_Algorithm_Flowchart.png" alt="GW Algorithm Flowchart" />
+  <img src="GW_Algorithm_Flowchart.png" alt="GW Algorithm Flowchart"width="400"/>
 </p>
 
 ## GWO Overview
@@ -12,7 +12,7 @@
 
 ## Algorithm Structure
 <p align="center">
-  <img src="GW_Structure.png" alt="GW Structure" />
+  <img src="GW_Structure.png" alt="GW Structure"width="200"/>
 </p>
 
 
